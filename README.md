@@ -18,3 +18,6 @@ point.
 EFFECT: distinction of real and false targets,
 shorter time for location using active apparatus,
 higher potential for passive target detection.
+
+
+![image](https://github.com/Laoooq/triangulation/assets/117814347/8084a850-ee83-492d-b4f6-29df3c8e589b)
